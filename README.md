@@ -8,6 +8,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Analysis
 Q1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+
 Ans. Based on the provided data following conclusions can be drawn:
 1. The highest number of projects belong to entertainment genre particularly to theatre, music, and film & video category. 
 2. The theater category attracts the most number of project, while music category attracts the second highest number of projects. However, success to failure ratio is high for music category than theatre category.
@@ -16,9 +17,11 @@ Ans. Based on the provided data following conclusions can be drawn:
 5. Based on the launch date analysis, over the years, most of the successful projects were launched at the start of the summer season especially in the month of May. 
 
 Q2. What are some limitations of this dataset?
+
 Ans. There are over 300,000 projects on the Kickstarter platform, while our data set only includes data related to around 4100 projects. Since the data set only covers a fraction of the population data size, there might be data biases and might not be accurately representating the actual picture of projects happening on the Kickstarter platform. 
 
 Q3. What are some other possible tables and/or graphs that we could create?
+
 Ans. The following tables can be worked out to check:
 1. Calculate and make table for ratio of successful projects to unsuccessful projects in different categories and sub categories to check which category had high success percentage.
 2. Pivot table and bar graph representing country wise division of projects to check which country has the most successful projects to see if the project location matters.
